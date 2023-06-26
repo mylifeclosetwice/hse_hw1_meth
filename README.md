@@ -1,5 +1,6 @@
 # Домашнее задание 1
-Ссылка на тетрадку: 
+Ссылка на тетрадку: [(https://colab.research.google.com/drive/1XScCwBnCZ62a9DukaiCXV-i1c6bW2_Ny?usp=sharing)](https://colab.research.google.com/drive/1XScCwBnCZ62a9DukaiCXV-i1c6bW2_Ny?usp=sharing)
+
 ## Основная часть
 Были проанализированы следующие 3 BS-Seq образца, полученные на разных стадиях развития эмбриона мыши:
   * SRR5836473 - 8 Cell
