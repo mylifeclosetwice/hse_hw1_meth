@@ -16,8 +16,7 @@
 
 8 Cell | ICM | Epiblast
 -------|-----|---------
-![image](https://github.com/mylifeclosetwice/hse_hw1_meth/assets/71773580/d5c71edf-20cc-4497-9e6b-d3fd88743ba6) | ![image](https://github.com/mylifeclosetwice/hse_hw1_meth/assets/71773580/0f358313-fa2c-4647-b2e5-754fed4b337c)
- | ![image](https://github.com/mylifeclosetwice/hse_hw1_meth/assets/71773580/cd19196e-ec7d-4932-ae3b-c2d4947825f8)
+![image](https://github.com/mylifeclosetwice/hse_hw1_meth/assets/71773580/d5c71edf-20cc-4497-9e6b-d3fd88743ba6) | ![image](https://github.com/mylifeclosetwice/hse_hw1_meth/assets/71773580/0f358313-fa2c-4647-b2e5-754fed4b337c) | ![image](https://github.com/mylifeclosetwice/hse_hw1_meth/assets/71773580/cd19196e-ec7d-4932-ae3b-c2d4947825f8)
 
 
 ### Коллинг метилирование цитозинов
