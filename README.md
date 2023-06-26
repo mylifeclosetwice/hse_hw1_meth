@@ -22,8 +22,6 @@
 8 Cell | ICM | Epiblast
 -------|-----|---------
 ![image](https://github.com/mylifeclosetwice/hse_hw1_meth/assets/71773580/b262c59b-130b-4440-b496-5e60e1803490) | ![image](https://github.com/mylifeclosetwice/hse_hw1_meth/assets/71773580/c69941ef-70a1-493c-9a15-b6c940e395d6) | ![image](https://github.com/mylifeclosetwice/hse_hw1_meth/assets/71773580/4e19de9b-317b-4729-87b4-e08583cd9628)
-
-
 ![image](https://github.com/mylifeclosetwice/hse_hw1_meth/assets/71773580/4dbca2a4-eff2-47a6-b8c3-8d782e5c9d61) | ![image](https://github.com/mylifeclosetwice/hse_hw1_meth/assets/71773580/d19ed923-aa31-4c75-a9a7-931e47e12112) | ![image](https://github.com/mylifeclosetwice/hse_hw1_meth/assets/71773580/c2e2f57e-cd22-4c03-90af-5f8898becbb1)
 
 ### Уровeнь метиллирования
